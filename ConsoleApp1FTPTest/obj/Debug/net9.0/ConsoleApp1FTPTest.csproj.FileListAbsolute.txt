@@ -1,0 +1,14 @@
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\bin\Debug\net9.0\ConsoleApp1FTPTest.exe
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\bin\Debug\net9.0\ConsoleApp1FTPTest.deps.json
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\bin\Debug\net9.0\ConsoleApp1FTPTest.runtimeconfig.json
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\bin\Debug\net9.0\ConsoleApp1FTPTest.dll
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\bin\Debug\net9.0\ConsoleApp1FTPTest.pdb
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.AssemblyInfoInputs.cache
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.AssemblyInfo.cs
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.csproj.CoreCompileInputs.cache
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.dll
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\refint\ConsoleApp1FTPTest.dll
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.pdb
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ConsoleApp1FTPTest.genruntimeconfig.cache
+c:\Users\vovas\Desktop\vova\My projects\ConsoleApp1FTPTest\ConsoleApp1FTPTest\obj\Debug\net9.0\ref\ConsoleApp1FTPTest.dll
